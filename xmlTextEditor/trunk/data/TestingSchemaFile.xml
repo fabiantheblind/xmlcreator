@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bookTreeXMLSchema.xsd">
+  <chapter id="0">
+    <h1>h1</h1>
+    <h2>h2</h2>
+    <h3>h3</h3>
+    <text>
+      <it>it</it>
+    </text>
+    <footnotes>
+      <note id="0"/>
+    </footnotes>
+  </chapter>
+</book>
