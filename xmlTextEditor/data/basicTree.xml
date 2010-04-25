@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bookTreeXMLSchema.xsd">
+	<chapter id="0">
+		<h1>Ich bin H1. eine Überschrift</h1>
+        <h2>ich bin H2. eine unterÜberschrift</h2>
+		<h3>Ich bin H3. eine Überschrift</h3>
+		<text>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <it>At vero eos et accusam et justo duo dolores et ea rebum.
+		</it>
+		</text>
+		<h2> ich bin eine Zwischenüberschrift</h2>
+		<text>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+		
+Duis autem vel eum iriure<it>dolor in hendrerit in vulputate velit esse molestie consequat,</it> vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et</text>
+<h3>Ich bin H3. ich bin eine UnterUnterÜberschrift</h3>
+<text>iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
+
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut</text>
+		<footnotes><note id="0">ich bin eine Fussnote dieses Kapitels</note>
+			<note id="1">ich ebenfalls bin eine Fussnote dieses Kapitels</note></footnotes>
+		
+	</chapter>
+		<chapter id="1">
+		<h1>Ich bin H1. eine Überschrift</h1>
+		<h2>Ich bin H2. eine Zwischenüberschrift</h2>
+		<h3>Ich bin H3. eine Überschrift</h3>
+		<text>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <it>At vero eos et accusam et justo duo dolores et ea rebum.</it></text>
+		<h2> ich bin eine Zwischenüberschrift</h2>
+		<text>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+		
+Duis autem vel eum iriure<it>dolor in hendrerit in vulputate velit esse molestie consequat,</it> vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et</text>
+<h3>Ich bin H3. ich bin eine UnterUnterÜberschrift</h3>
+<text>iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
+
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut</text>
+		<footnotes><note id="0">ich bin eine Fussnote dieses Kapitels</note>
+			<note id="1">ich ebenfalls bin eine Fussnote dieses Kapitels</note></footnotes>
+		
+	</chapter>
+	
+</book>
+
