@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+h1 {font-size: 23px;font-weight:bold;font-family:Arial;padding-left:10px; display:block;}
+h2 { font-size: 18px; font-weight:bold;font-family:Arial;display:block;}
+h3 { font-size: 15px ; font-weight:bold;font-family:Arial;display:block;}
+text { font-size: 14px;font-family:Arial; }
+it { font-size: 14px;font-style: italic; display:block; font-family:Arial; }
+footnotes { font-size: 14px; font-family:Arial; }
+notes {font-size: 14px; font-family:Arial; }
